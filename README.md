@@ -3010,6 +3010,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Proxy](https://useproxy.dev) `https://mcp.useproxy.dev/mcp`
   [![Proxy MCP connector](https://glama.ai/mcp/connectors/dev.useproxy/proxy/badges/score.svg)](https://glama.ai/mcp/connectors/dev.useproxy/proxy)
   🔐 - Search Meta, Google, LinkedIn and TikTok ad libraries for competitor ads, creatives and transcripts.
+- [QQQ AI Visibility Checker](https://qqq.ee/en/mcp-server/) `https://qqq.ee/mcp`
+  [![QQQ AI Visibility Checker MCP connector](https://glama.ai/mcp/connectors/ee.qqq/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/ee.qqq/ai-visibility)
+  🔓 - Free AI visibility check: AI crawler access, AI search readiness and brand citations in ChatGPT, Gemini, Perplexity.
 - [qrcode.io QR codes](https://agent.qrcode.io/) `https://agent.qrcode.io/mcp`
   [![qrcode.io QR codes MCP connector](https://glama.ai/mcp/connectors/io.qrcode/qr-codes/badges/score.svg)](https://glama.ai/mcp/connectors/io.qrcode/qr-codes)
   🔓 - Create free static QR codes as PNG or SVG for links, WiFi, contact cards and text; no account, never expire.
